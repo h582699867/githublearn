@@ -6,3 +6,4 @@
 /node_modules
 # 只忽略当前文件夹下的文件
 /1.test
+/test.js
